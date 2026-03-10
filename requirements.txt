@@ -1,0 +1,10 @@
+llama-index
+llama-index-llms-ollama
+pypdf
+python-dotenv
+llama-index-llms-gemini
+
+
+### pip install -r requirements.txt
+### then run py build_index.py
+### then run app.py
