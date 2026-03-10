@@ -1,0 +1,2 @@
+pip install chromadb langchain sentence-transformers ollama
+pip install -U langchain langchain-core langchain-community langchain-text-splitters 
