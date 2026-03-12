@@ -16,3 +16,6 @@ ask any questions like
 2) what is multi threading in Java
 3) what are closures in JS
 4) what is eventEmitter in nodejs?
+
+my langchain version = 1.0.8
+python used 3.12
