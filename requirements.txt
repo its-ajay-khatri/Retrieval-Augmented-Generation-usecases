@@ -1,0 +1,6 @@
+langchain==1.0.8
+langchain-community
+langchain-ollama
+faiss-cpu
+sentence-transformers
+pypdf
